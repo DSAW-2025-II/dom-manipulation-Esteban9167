@@ -28,5 +28,12 @@ El diseño de la aplicación debe ser responsive y adaptarse correctamente a dif
 | Diseño Responsive | 0.5     |
 | HTML Semántico     | 0.5     |
 | Funcionalidad      | 3       |
+## 👤 Autor  
+**Esteban Sequeda Henao**  
+**Código:** 328378  
+**Correo:** [estebansehe@unisabana.edu.co](mailto:estebansehe@unisabana.edu.co)  
 
+## 🌐 Despliegue  
+El proyecto está publicado en **GitHub Pages** en el siguiente enlace:  
+🔗 [https://dom-esteban9167.vercel.app]
 
